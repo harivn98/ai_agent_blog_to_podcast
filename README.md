@@ -186,13 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Firecrawl](https://firecrawl.dev) - Web scraping API
 - [Streamlit](https://streamlit.io) - Web app framework
 
-## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/blog-to-podcast-agent](https://github.com/yourusername/blog-to-podcast-agent)
-
----
 
 ⭐ Star this repo if you find it helpful!
 
